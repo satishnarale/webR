@@ -93,7 +93,7 @@ sections:
           date_start: '2019-11'
           description: ''
           organization: Microsoft
-          organization_url: 
+          organization_url: https://www.credly.com/
           title: 70-774 Perform Cloud Data Science with Azure Machine Learning
           url: ''
         - certificate_url: https://www.edx.org
