@@ -23,7 +23,7 @@ sections:
         - name: python
           description: 90%
           icon: python
-          #icon_pack: fab
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
