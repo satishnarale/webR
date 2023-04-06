@@ -47,7 +47,7 @@ sections:
         - title: Data Scientist 
           company: TCS
           company_url: ''
-          company_logo: org-gc
+          company_logo: TCS
           location: Mumbai
           date_start: '2013-02-06'
           date_end: ''
@@ -60,7 +60,7 @@ sections:
         - title: SME Technology
           company: Serco
           company_url: ''
-          company_logo: org-x
+          company_logo: sgs
           location: Mumbai
           date_start: '2012-02-15'
           date_end: '2011-02-15'
