@@ -24,13 +24,21 @@ sections:
           description: 90%
           icon: python
           icon_pack: fab
+        - name: javascript
+          description: 90%
+          icon: js
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: cloud
+          description: 90%
+          icon: cloud
+          icon_pack: fas
+        - name: database
+          description: 90%
+          icon: database
           icon_pack: fas
   - block: experience
     content:
