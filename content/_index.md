@@ -88,13 +88,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.credly.com/badges/2e207fb3-2c56-49d3-b6dc-40240902be4c/linked_in_profile
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-11'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Microsoft
+          organization_url: 
+          title: 70-774 Perform Cloud Data Science with Azure Machine Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
