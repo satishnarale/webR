@@ -20,6 +20,10 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
+        - name: Python
+          description: 90%
+          icon: Python-project
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
@@ -40,12 +44,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Scientist 
+          company: TCS
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Mumbai
+          date_start: '2013-02-06'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -53,14 +57,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: SME Technology
+          company: Serco
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Mumbai
+          date_start: '2012-02-15'
+          date_end: '2011-02-15'
+          description: Worked as Cloud specialist.
     design:
       columns: '2'
   - block: accomplishments
