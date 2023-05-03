@@ -101,13 +101,13 @@ sections:
           date_start: '2019-11'
           description: ''
           organization: Microsoft
-          organization_url: https://www.credly.com/
-          title: 70-774 Perform Cloud Data Science with Azure Machine Learning
+          organization_url: https://www.credly.com
+          title: Perform Cloud Data Science with Azure Machine Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Probability - The Science of Uncertainty and Data
+          description: Probability The Science of Uncertainty and Data
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
