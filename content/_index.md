@@ -71,8 +71,16 @@ sections:
           company_logo: sgs
           location: Mumbai
           date_start: '2012-02-15'
-          date_end: '2011-02-15'
+          date_end: '2013-02-15'
           description: Worked as Cloud specialist.
+        - title: SME Technology
+          company: AtoS
+          company_url: ''
+          company_logo: atos
+          location: Mumbai
+          date_start: '2011-04-14'
+          date_end: '2012-02-14'
+          description: Worked as Cloud and Server specialist .
     design:
       columns: '2'
   - block: accomplishments
